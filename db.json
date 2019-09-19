@@ -1,0 +1,115 @@
+{
+  "products": [
+    {
+      "productName": "OnePlus",
+      "productDescription": "rtertsadad",
+      "quantity": "12",
+      "manufacturer": "teesada",
+      "price": "21",
+      "productAddedon": "2019-09-16T10:34:30.981Z",
+      "lastEditedOn": "2019-09-17T10:24:10.918Z",
+      "views": 31,
+      "id": 2,
+      "flip": "inactive",
+      "deleteFlip": "inactive"
+    },
+    {
+      "productName": "dsfds",
+      "productDescription": "fsdfs",
+      "quantity": "21312",
+      "id": 6,
+      "manufacturer": "fdsfs",
+      "price": "213",
+      "views": 18,
+      "flip": "inactive",
+      "deleteFlip": "inactive"
+    },
+    {
+      "productName": "Moto G",
+      "productDescription": "Mobile",
+      "quantity": "123",
+      "manufacturer": "Motorola",
+      "price": "12344",
+      "productAddedon": "2019-09-17T10:06:24.973Z",
+      "lastEditedOn": "2019-09-17T10:22:58.571Z",
+      "views": 3,
+      "id": 7,
+      "flip": "inactive",
+      "deleteFlip": "inactive"
+    },
+    {
+      "productName": "Samsung",
+      "productDescription": "Mobile",
+      "quantity": "23",
+      "id": 8,
+      "manufacturer": "Samsung",
+      "price": "1234",
+      "productAddedon": "2019-09-18T04:57:19.285Z",
+      "views": 3,
+      "flip": "inactive",
+      "deleteFlip": "inactive"
+    },
+    {
+      "productName": "Lenovo",
+      "productDescription": "Mobile",
+      "quantity": "45",
+      "id": 9,
+      "manufacturer": "lenovo",
+      "price": "12233",
+      "productAddedon": "2019-09-18T04:57:58.941Z",
+      "views": 2,
+      "flip": "inactive",
+      "deleteFlip": "inactive"
+    },
+    {
+      "productName": "Apple",
+      "productDescription": "Mobile with Mac OS",
+      "quantity": "43",
+      "id": 10,
+      "manufacturer": "Apple",
+      "price": "11111111",
+      "productAddedon": "2019-09-18T04:58:41.448Z",
+      "views": 2,
+      "flip": "inactive",
+      "deleteFlip": "inactive"
+    }
+  ],
+  "profiles": [
+    {
+      "firstName": "Soundar",
+      "lastName": "R",
+      "emailID": "asdasd@ds.dsad",
+      "mobileNo": "2131312312",
+      "password": "sadas",
+      "confirmPassword": "daasd",
+      "location": "benaluru",
+      "id": 1
+    },
+    {
+      "firstName": "Soundar",
+      "lastName": "R",
+      "emailID": "dasda",
+      "mobileNo": "231313",
+      "password": "WEWEWE",
+      "confirmPassword": "WEWEWE",
+      "location": "Bengaluru",
+      "profileCreatedOn": "2019-09-10T10:03:14.258Z",
+      "lastLogin": "2019-09-10T10:03:14.258Z",
+      "profileUpdated": "2019-09-10T10:03:14.258Z",
+      "id": 2
+    },
+    {
+      "firstName": "Admin",
+      "lastName": "M",
+      "emailID": "admin",
+      "mobileNo": "123334",
+      "password": "admin",
+      "confirmPassword": "admin",
+      "location": "Bangalore",
+      "profileUpdated": "2019-09-18T09:43:47.944Z",
+      "profileCreatedOn": "2019-09-10T10:03:14.258Z",
+      "lastLogin": "2019-09-10T10:03:14.258Z",
+      "id": 3
+    }
+  ]
+}
